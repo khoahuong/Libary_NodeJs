@@ -1,2 +1,4 @@
-# Libary_NodeJs
-Tổng hợp các thư viện NodeJs của Mai Khoa Hưởng (Makog - HuongMK)
+# Project_Personal
+version: 1.0.0
+description: Public Personal Project
+author: makog <khoahuonguet@gmail.com>
